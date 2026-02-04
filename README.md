@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-<!--
-**krishn228/krishn228** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 # 💫 About Me:
  Hi, I'm Krishnapriya ✨<br><br>🧠 Electronics and Biomedical Engineering student at Model Engineering College  <br>🔐 Curious about the cyber world and cybersecurity fundamentals  <br>🌱 Beginner in programming, learning how systems work and how to secure them  <br>🧪 Interested in how hardware, software, and security connect  <br>🚀 Learning consistently and improving one step at a time
