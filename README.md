@@ -1,6 +1,4 @@
-## Hi there👋,I'm Krishnapriya 
-
-
+## Hi there,I'm Krishnapriya 👋
 <br><br>🧠 Electronics and Biomedical Engineering student at Model Engineering College  <br>🔐 Curious about the cyber world and cybersecurity fundamentals  <br>🌱 Beginner in programming, learning how systems work and how to secure them  <br>🧪 Interested in how hardware, software, and security connect  <br>🚀 Learning consistently and improving one step at a time
 
 
